@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="option1">Nubak</string>
+    <string name="option2">PerfectPay</string>
+    <string name="option3">Monettize</string>
+    <string name="option4">Kiwify</string>
+    <string name="option5">Hotmart</string>
+    <string name="option6">Eduzz</string>
+    <string name="option7">Braip</string>
+
+</resources>
